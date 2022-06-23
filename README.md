@@ -27,7 +27,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### 关于我
-- 技术资料：https://www.xuyanblog.cn/%E8%B5%84%E6%96%99
+- 💻技术资料：https://www.xuyanblog.cn/%E8%B5%84%E6%96%99
 - 🌊我的个人博客：https://www.xuyanblog.cn/
 - 📫 If you have some questions need to tell me,please e-mail :1318642891@qq.com
 
