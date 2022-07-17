@@ -8,7 +8,7 @@
 - 🌱 Currently studying in Beijing, China.
 - My major is cyber security
 - I dream of being a white hat hacker one day
-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Xuyan-cmd&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Xuyan-cmd&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=github" />
 
 ### 🛠 技术栈 | Tech Stack
 
@@ -26,6 +26,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+ <div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Xuyan-cmd&theme=minimal" />
+</div>
+ 
 ### 关于我
 - 💻技术资料：https://www.xuyanblog.cn/%E8%B5%84%E6%96%99
 - 🌊我的个人博客：https://www.xuyanblog.cn/
