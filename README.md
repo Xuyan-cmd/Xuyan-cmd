@@ -3,6 +3,7 @@
  ## Hello GitHub Fans 👋
 
 ### 我是百川
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1500&color=0CB4DC&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&height=54&lines=%E4%BD%A0%E5%A5%BD%E5%91%80%EF%BC%8C%E6%88%91%E6%98%AF%E7%99%BE%E5%B7%9D;%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84Github%E4%B8%BB%E9%A1%B5)](https://git.io/typing-svg)
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in Beijing, China.
