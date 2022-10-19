@@ -13,7 +13,8 @@
 
 
  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  🛠 技术栈 | Tech Stack
+  
+ ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -36,8 +37,10 @@
      <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=xuyan-cmd" alt="xuyan-cmd" />
      </a>
     </p>
-
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuyan-cmd&show_icons=true&locale=en&layout=compact" alt="xuyan- cmd" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=xuyan-cmd&show_icons=true&locale=en" alt ="xuyan-cmd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xuyan-cmd&" alt= "xuyan-cmd" /></p>
+ </div>
  
 ### 关于我
 - 💻技术资料：https://www.xuyanblog.cn/%E8%B5%84%E6%96%99
