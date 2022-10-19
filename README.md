@@ -2,15 +2,18 @@
 
 ## Hello GitHub Fans 👋
 ### 我是百川
+
+
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=1522&color=0CB4DC&center=%E7%9C%9F%E7%9A%84&vCenter=%E7%9C%9F%E7%9A%84&multiline=true&height=54&lines=%E4%BB%A3%E7%A0%81%E6%98%AF%E6%9C%89%E7%81%B5%E9%AD%82%E7%9A%84;%E5%86%99%E4%BB%A3%E7%A0%81%E7%9A%84%E4%BA%BA%E6%9B%B4%E6%98%AF%E6%9C%89%E8%B6%A3%E7%9A%84)](https://git.io/typing-svg)
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently studying in Beijing, China.
 - My major is cyber security
 - I dream of being a white hat hacker one day
-- <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Xuyan-cmd&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=github" />
+
+
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
- 🛠 技术栈 | Tech Stack
+  🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
@@ -26,8 +29,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### Github信息
  <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=Xuyan-cmd&theme=minimal" />
+    <p align="center"> 
+     <a href="https://github.com/ryo-ma/github-profile-trophy "><img src="https://github-profile-trophy.vercel.app/?username=xuyan-cmd" alt="xuyan-cmd" />
+     </a>
+    </p>
+
 </div>
  
 ### 关于我
