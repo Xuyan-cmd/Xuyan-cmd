@@ -4,27 +4,20 @@
   
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
-  
+
 
 - 🔭A Computer Engineering Undergraduate Student. & Open Source enthusiast.  
   
-
 - 🌱Currently studying in Beijing, China.  
   
-
 - 🪄 My major is cyber security  
   
-
 - 👨‍💻 I dream of being a white hat hacker one day  
   
-
-<br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -37,10 +30,7 @@
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">  
@@ -57,10 +47,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
-
-
 
 ### DevOps  
 <div align="center">  
@@ -69,10 +56,7 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
-
-</td></tr></table>  
-
-<br/>  
+</td></tr></table>    
 
 
 ## Connect with me  
@@ -83,30 +67,14 @@
 <a href="https://instagram.com/rockjames101" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
+</div>    
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Xuyan-cmd&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-
-<br/>  
-
-
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Xuyan-cmd&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
+​    
 
 <div align="center"></div>
