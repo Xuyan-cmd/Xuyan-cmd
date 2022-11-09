@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://s6.jpg.cm/2022/10/19/PJGYt8.jpg" align="center" style="width: 100%" />
-</div>  
-  
+![sea](img/sea.jpg)
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
@@ -13,6 +10,9 @@
 - 🪄 My major is cyber security  
   
 - 👨‍💻 I dream of being a white hat hacker one day  
+
+- > **关于我为什么取名百川🌊，源于本人十分喜欢大海🌊，我认为大海是充满生机的，充满活力的，时而平静，时而奔放，而这样的大海来源于这个世上所有的山川河流的汇聚，我们的人生亦是如此，我们每一个人都像是这其中的川流🌊，生生不息，向着大海流动，最终会回向大海。中国古诗中有“百川东到海，何时复西归。”人生海海，很多时候我们没有机会回到过去，而未来充满着无数的未知和挑战，我们只能不断地向前流淌，但无论经历如何，我们终会有一天在那蔚蓝的大海相遇，百川归海，愿你我终能回到属于你自己的大海……….**
+
   
 
 
