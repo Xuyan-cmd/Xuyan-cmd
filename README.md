@@ -1,4 +1,4 @@
-![](https://s6.jpg.cm/2022/11/09/PSmChR.jpg)
+![sea](img/sea.jpg)
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
