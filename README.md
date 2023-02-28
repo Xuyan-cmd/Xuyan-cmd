@@ -11,7 +11,7 @@
   
 - 👨‍💻 I dream of being a white hat hacker one day  .
 
-- > **关于我为什么取名百川🌊，源于本人十分喜欢大海🌊，我认为大海是充满生机的，充满活力的，时而平静，时而奔放，而这样的大海来源于这个世上所有的山川河流的汇聚，我们的人生亦是如此，我们每一个人都像是这其中的川流🌊，生生不息，向着大海流动，最终会回向大海。中国古诗中有“百川东到海，何时复西归。”人生海海，很多时候我们没有机会回到过去，而未来充满着无数的未知和挑战，我们只能不断地向前流淌，但无论经历如何，我们终会有一天在那蔚蓝的大海相遇，百川归海，愿你我终能回到属于自己的大海……….**
+- > **The reason why I named Baichuan🌊 is because I like the sea very much. I think the sea is full of vitality, full of vitality, sometimes calm, sometimes unrestrained, and this kind of sea comes from the convergence of all the mountains, rivers and rivers in this world. The same is true of our life, each of us is like a stream🌊 in it, endlessly flowing, flowing towards the sea, and will eventually return to the sea. There is an ancient Chinese poem "When all rivers go east to the sea, when will they return to the west." In life, we have no chance to go back to the past, and the future is full of countless unknowns and challenges. We can only keep flowing forward, but No matter what the experience is, we will meet in the blue sea one day, and all rivers will return to the sea. I hope you and I can finally return to our own sea...**
 
   
 
