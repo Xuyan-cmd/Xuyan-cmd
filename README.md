@@ -1,4 +1,4 @@
-![sea](img/sea.png)
+![](https://cdn.jsdelivr.net/gh/Xuyan-cmd/picture-bed/sea.jpg)
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
