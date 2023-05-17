@@ -1,4 +1,4 @@
-![sea](img/sea.jpg)
+![sea](img/sea.png)
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
