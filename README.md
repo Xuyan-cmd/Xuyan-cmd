@@ -1,9 +1,9 @@
-![](https://rockoss-1309912377.cos.ap-beijing.myqcloud.com/picgo/Rock-removebg-preview.webp)
+
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
 <div>   
-    <img src=https://cdn.jsdelivr.net/gh/Xuyan-cmd/picture-bed/personlogo.png width=30% alt="personal" style="float: right;"> 
+    <img src=https://rockoss-1309912377.cos.ap-beijing.myqcloud.com/picgo/Rock-removebg-preview.webp width=30% alt="personal" style="float: right;"> 
     <p>🔭A Computer Engineering Undergraduate Student. & Open Source enthusiast.  </p>
     <p>🌱Currently studying in Beijing, China.  </p>
     <p>🪄 My major is cyber security</p>
