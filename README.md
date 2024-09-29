@@ -1,4 +1,4 @@
-![](https://cdn.jsdelivr.net/gh/Xuyan-cmd/picture-bed/sea.jpg)
+![](https://rockoss-1309912377.cos.ap-beijing.myqcloud.com/picgo/Rock-removebg-preview.webp)
 
 ### <div align="center">Hello GitHub Fans 👋，我是百川🌊</div>  
 
@@ -9,7 +9,7 @@
     <p>🪄 My major is cyber security</p>
     <p>👨‍💻 I dream of being a white hat hacker one day  .</p>
     <p>😋 Welcome to my blog</p>
-    <p><strong>The reason why I named Baichuan🌊 is because I like the sea very much. I think the sea is full of vitality, full of vitality, sometimes calm, sometimes unrestrained, and this kind of sea comes from the convergence of all the mountains, rivers and rivers in this world. The same is true of our life, each of us is like a stream🌊 in it, endlessly flowing, flowing towards the sea, and will eventually return to the sea. There is an ancient Chinese poem "When all rivers go east to the sea, when will they return to the west." In life, we have no chance to go back to the past, and the future is full of countless unknowns and challenges. We can only keep flowing forward, but No matter what the experience is, we will meet in the blue sea one day, and all rivers will return to the sea. I hope you and I can finally return to our own sea...</strong></p>
+    <p><strong>The reason why I named Baichuan🌊 is because I like the sea very much. I think the sea is full of vitality, full of vitality, sometimes calm, sometimes unrestrained, and this kind of sea comes from the convergence of all the mountains, rivers and rivers in this world. The same is true of our life, each of us is like a stream🌊 in it, endlessly flowing, flowing towards the sea, and will eventually return to the sea. There is an ancient Chinese poem "When all rivers go east to the sea, when will they return to the west." In life, we have no chance to go back to the past, 和 the future is full of countless unknowns and challenges. We can only keep flowing forward, but No matter what the experience is, we will meet in the blue sea one day, 和 all rivers will return to the sea. I hope you and I can finally return to our own sea...</strong></p>
 </div>
 
 
